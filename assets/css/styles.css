@@ -336,7 +336,8 @@ img{
 }
 
 .decoration__img{
-  width: 180px;
+  width: 100px;
+  height: 100px;
 }
 
 .decoration__title{
